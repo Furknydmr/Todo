@@ -11,6 +11,7 @@ const TaskScreen = () => {
   const handleAddTask = async () => {
     addTask(title)
     setTitle('')
+    ///////////yorum satırı eklenimesi lazım
   }
   
 
